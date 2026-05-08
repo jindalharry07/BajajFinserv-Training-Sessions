@@ -10,6 +10,7 @@ This repository is organized into a structured daily curriculum and specialized 
 
 #### 🗓️ Daily Training Modules
 
+```
 | Module | Focus Area | Highlights |
 | :--- | :--- | :--- |
 | **Day 1** | **Sliding Window & Two Pointers** | `FixedSizeSlidingWindow`, `MaxSubArray`, `SlidingWindowTwoPointers` |
@@ -17,6 +18,7 @@ This repository is organized into a structured daily curriculum and specialized 
 | **Day 3** | **Searching & OOP Principles** | `BinarySearch`, `Inheritance`, `Polymorphism`, `MethodOverloading` |
 | **Day 4** | **Dynamic Programming & Kadane** | `Kadane`, `CircularSubarraySum` |
 | **Day 5** | **String Processing** | `ValidPalindrome`, `AnagramDetection`, `PermutationInString` |
+```
 
 #### 🛠️ Specialized Collections
 
